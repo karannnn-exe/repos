@@ -1,1 +1,4 @@
-hello world
+<<<<<<< HEAD
+hello world file 1
+bye world
+>>>>>>> branch1
